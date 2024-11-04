@@ -1,4 +1,6 @@
 package Pb2;
-
-public enum Orientare {
+public enum Orientare
+{
+    LUNGIME, LATIME, ORICARE
 }
+
